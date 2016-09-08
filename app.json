@@ -1,0 +1,7 @@
+{
+  "name": "Express.js REST ES sample",
+  "description": "Express.js ES REST API skeleton",
+  "repository": "https://github.com/plispe/express-es-rest-skeleton",
+  "logo": "https://worldvectorlogo.com/logos/nodejs-icon.svg",
+  "keywords": ["node", "express", "es"]
+}
