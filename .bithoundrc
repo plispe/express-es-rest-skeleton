@@ -1,0 +1,13 @@
+{
+  "ignore": [
+    "**/node_modules/**"
+  ],
+  "critics": {
+    "lint": {"engine": "eslint"}
+  },
+  "dependencies": {
+    "mute": [
+      "foreman"
+    ]
+  }
+}
