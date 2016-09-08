@@ -13,7 +13,6 @@
   "author": "Petr Pliska",
   "license": "ISC",
   "dependencies": {
-    "babel": "6.5.2",
     "babel-core": "6.14.0",
     "babel-preset-latest": "6.14.0",
     "express": "4.14.0",
