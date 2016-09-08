@@ -3,7 +3,7 @@
     "**/node_modules/**"
   ],
   "critics": {
-    "lint": {"engine": "eslint"}
+    "lint": {"engine": "standard"}
   },
   "dependencies": {
     "mute": [
