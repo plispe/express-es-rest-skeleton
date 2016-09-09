@@ -11,7 +11,7 @@
     "expressjs"
   ],
   "author": "Petr Pliska",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "standard": "8.0.0"
   },
