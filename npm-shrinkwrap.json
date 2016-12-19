@@ -1,5 +1,5 @@
 {
-  "name": "expressjs-backend",
+  "name": "nodeproxy",
   "version": "1.0.0",
   "dependencies": {
     "accepts": {
