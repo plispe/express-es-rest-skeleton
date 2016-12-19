@@ -51,7 +51,7 @@ app
       target = hosts[host][protocol]
     }
 
-    console.log(host + req.url + '  ' + req.headers.referer + ' -> ' + (target))
+    console.log(`${host}${req.url} ${req.headers.referer} -> (${target})`)
 
     proxy.web(req, res, {target: target})
   })
